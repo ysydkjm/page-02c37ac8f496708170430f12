@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d461da09f3a1bfaaed04fab4",
+  "owner": "ysydkjm",
+  "repo": "page-02c37ac8f496708170430f12",
+  "title": "白嫖(2046gq)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "02c37ac8f496708170430f12",
+      "a": "白嫖(2046gq)",
+      "b": "2027官方最新地址导航",
+      "entity": "白嫖(2046gq)",
+      "brand": "白嫖(2046gq)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "911f374fa67844d895f7bd4677c7ac3335f80a978b9d091ebdef3615ce28e5ff",
+      "content": {
+        "primary_entity": "白嫖(2046gq)",
+        "keyword1": "白嫖(2046gq)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，订阅配置更顺畅。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐，开始配置你的加速连接。",
+          "AI_CLOSING_TITLE": "选套餐即可用",
+          "AI_DESCRIPTION": "，围绕海外加速场景提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、3 台设备在线；旗舰版每月 300GB、5 台设备在线并带 IPLC 专线游戏加速优化；团队版每月 1000GB、20 台设备在线，可做企业定制路由。按年付分别仅需 ¥150/年、¥350/年、¥850/年，适合按设备数量与流量需求做选择。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求到订阅周期，三点快速理清。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版、旗舰版、团队版覆盖 100GB 到 1000GB 月流量。",
+          "AI_FEATURE_TEXT_2": "在线设备数从 3 台到 20 台，按常用终端数量选档。",
+          "AI_FEATURE_TEXT_3": "年付比月付省两个月费用，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "三档流量",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从选服务到完成订阅导入，三步走完。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "白嫖(2046gq)提供基础版、旗舰版与团队版三档海外加速订阅，月流量从 100GB 到 1000GB，支持 3 到 20 台设备同时在线。旗舰版带 IPLC 专线游戏加速优化，团队版支持企业定制路由，按年付价格更省。",
+          "AI_HERO_SUBTITLE": "三档订阅覆盖多设备加速",
+          "AI_HIGHLIGHT_1": "月付低至 ¥15 起",
+          "AI_HIGHLIGHT_2": "年付更省两个月费用",
+          "AI_HIGHLIGHT_3": "最高 20 台设备在线",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按流量、设备数和预算在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认终端类型和在线设备数量，核对所选套餐的适配范围。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅，完成连接配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "白嫖(2046gq) 订阅套餐",
+          "AI_FAQ_ANSWER_1": "根据设备数量和月流量选择，单人 3 台设备以内选基础版每月 100GB 够用，有游戏加速需求可选旗舰版 IPLC 专线，多人共享选团队版。",
+          "AI_FAQ_ANSWER_2": "在客户端内选择从链接导入或手动添加订阅，粘贴获取到的订阅地址后更新节点列表即可使用，不同客户端操作路径略有差异。",
+          "AI_FAQ_ANSWER_3": "同一时间在线设备数限制取决于所选套餐，基础版 3 台、旗舰版 5 台、团队版 20 台，超出数量会导致新设备无法连接。",
+          "AI_FAQ_ANSWER_4": "月付适合短期试用，年付价格更优，基础版年付仅 ¥150，旗舰版 ¥350，团队版 ¥850，长期使用年付可节省两个月费用。",
+          "AI_FAQ_ANSWER_5": "旗舰版与团队版提供流媒体解锁和专线节点，基础版为普通线路节点池，对延迟和带宽有要求可选高阶套餐。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何选择适合自己的套餐？",
+          "AI_FAQ_QUESTION_2": "订阅链接怎么导入客户端？",
+          "AI_FAQ_QUESTION_3": "设备数量限制如何计算？",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "不同套餐的节点线路有区别吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cchdglz.cn",
+    "host": "cchdglz.cn"
+  },
+  "file_hashes": {
+    "index.html": "53b6f4c150ff192b3423720b52877b6f80a5e03d20d5534fbac28a5a403be390",
+    "sitemap.xml": "cc7f6a87a0297a4dc4707a696b087571483d91e5b6ed161ed67b0a594b9fd2fd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "47f1f94a82ba9194dd899b3205a5140f0cf20d26f992f1be477694b289df2905",
+    "robots.txt": "832ce367211d2de53ab5c8c0261213dde05f50eaa1924aec22608064d176f278",
+    "69325873f94039718a2a0810c650b286.txt": "88bcb738a3120434723597c507e3743f8b7cdffd172c88262cf741cf2ce63283"
+  },
+  "revision": "b6c06aa0c63a3cc5422523ae16e6a29e12794f4d2da78580e9bb7dfba08c4493"
+}
